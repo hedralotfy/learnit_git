@@ -17,7 +17,11 @@ public class HelloWorld {
 	 * {@inheritDoc}
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
+		
+		char c = '\u2C80';
+		char ca = '\u2C81';
+		System.out.println(c);
+		System.out.println(ca);
 	}
 
 }

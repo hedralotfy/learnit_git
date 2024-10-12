@@ -1,0 +1,4 @@
+
+Course has name property, which is passed as a parameter in the constructor.
+Also it has a behavior which checks whether it's available or not, it's called availability.
+
